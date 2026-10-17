@@ -1,4 +1,4 @@
-Hi, I'm a System Analyst
+Hi, I'm a Full-Stack System Engineer
 
 I'm building my skills in System Analysis, Technical Documentation, Full-Stack Development, Database Design, and DevOps.
 
