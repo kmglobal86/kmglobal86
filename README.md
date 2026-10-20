@@ -14,7 +14,7 @@ My goal is to understand software systems from business requirements and system 
 
 🛠️ Technologies & Tools
 
-PHP | Laravel | MySQL | JavaScript | HTML5 | CSS3 | Python | Git | GitHub
+PHP | Laravel | MySQL | JavaScript | HTML5 | CSS3 | Python | Git | GitHub | Next.js | PostgreSQL | NestJs | CI/CD | GitHub Action
 
 📚 Currently Learning
 
